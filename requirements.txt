@@ -1,0 +1,6 @@
+load_dotenv
+requests
+cohere
+bs4
+termcolor
+streamlit
