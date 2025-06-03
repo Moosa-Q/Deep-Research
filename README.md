@@ -8,6 +8,7 @@ Deep Research is an openai inspired tool, where you enter a prompt and the AI wi
 - OpenAI API Key --> This is not free but it costs significantly less than paying for the plus or pro plan for chatgpt. [Click here](https://platform.openai.com/)
 
 ## Installation
+Enter your API Keys into the .env file
 
 Before you start, there are 2 files that you can run **app.py** or **main.py**. **main.py** is deep research in the command line with some interesting colors showing the different agents being used and the entire streamlined processes. But **app.py** is the same deep research but with a streamlit GUI.
 #### Windows
